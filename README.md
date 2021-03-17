@@ -1,2 +1,2 @@
 # Move My Images
- Moves Image Files From Downloads To User-Specific-Dir
+ Moves Image Files From Downloads To User Specific Location
