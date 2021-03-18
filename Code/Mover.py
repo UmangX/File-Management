@@ -19,7 +19,7 @@ chdir(Download)
 
 
 #the main directory to move to //user-specific where the images should be stored 
-des = ('d:/os') 
+des = ('C:/Users/'+user+'/Pictures/') 
 
 #gets the list of files
 files = listdir()
