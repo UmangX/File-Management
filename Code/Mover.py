@@ -14,11 +14,11 @@ user = getuser()
 #the download directory 
 Download = ('C:/Users/'+user+'/Downloads/')
 
-#changes the pwd to directory 
+#changes the pwd to the Download directory 
 chdir(Download)
 
 
-#the main directory to move to //user-specific
+#the main directory to move to //user-specific where the images should be stored 
 des = ('d:/os') 
 
 #gets the list of files
