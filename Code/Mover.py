@@ -25,8 +25,12 @@ des = ('d:/os')
 files = listdir()
 
 
-def movejpg(i):
+def moveimages(i):
 	if i[-3:len(i)] == "jpg":
+	   #print(i)
+	   #print("Image Found")
+	   system("move " + i +" " + des)
+	if i[-3:len(i)] == "png":
 	   #print(i)
 	   #print("Image Found")
 	   system("move " + i +" " + des)
@@ -34,8 +38,9 @@ def movejpg(i):
 
 
 
+
 def mainloop():
-    for i in files:movejpg(i)
+    for i in files:moveimages(i)
 
 
 #exexute the main Search and Move Loops 
