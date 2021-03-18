@@ -26,6 +26,7 @@ files = listdir()
 
 
 def moveimages(i):
+	#checks for file extension 
 	if i[-3:len(i)] == "jpg":
 	   #print(i)
 	   #print("Image Found")
