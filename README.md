@@ -2,7 +2,6 @@
 
 Moves All file type to User Configurated Directory *Fully Working* 
 📸[https://www.instagram.com/umang._1]
-
 On Windows 10 Requires Python3   
 🐍[https://www.python.org/downloads]
 
