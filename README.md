@@ -1,4 +1,7 @@
-# Move My Images
- Moves Image Files From Downloads To User Specific Location
- Arent people tried of eventually deleting image accidently from downloads
- when u just wanna clear the folder  
+Moves All file type to User Configurated Directory 
+Fully Working on Windows 10
+Requires Python3 :- https://www.python.org/downloads/
+For all File FilemanagerPy/Code/UmangxAll.py
+
+
+
