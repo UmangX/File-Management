@@ -56,8 +56,8 @@ Very Light Because It *Runs Once after  Every startup*
 > [https://www.geeksforgeeks.org/autorun-a-python-script-on-windows-startup/]
  
 *Give Me a Follow* :- 📸[https://www.instagram.com/umang._1]
-[Doesn't Required If Using the Exe]
 
+[Doesn't Required If Using the Exe]
 
 On Windows 10 Requires Python3 and **No** additional module :-   
 🐍[https://www.python.org/downloads]
