@@ -93,14 +93,7 @@ def moveimages(i):
 	   #print("Image Found")
 	   system("move " + i +" " + vids)	   
 	   
-	   
-
-
-
-	
-
-
-
+	 
 def mainloop():
     for i in files:moveimages(i)
 
