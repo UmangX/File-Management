@@ -10,7 +10,7 @@ Very Light Because It *Runs Once after  Every startup*
 
 **Directories**
 
- 1. Images - C:\Users\Username\Pictures (Jpeg,Png)📸
+ 1. Images - C:\Users\Username\Pictures (Jpg,Png)📸
  2. Music - C:\Users\Username\Music (Mp3,Wav)🎵
  3. Documents - C:\Users\Username\Documents (Pdf,Doc)📃
  4. Software - C:\Users\Username\Software(Exe,Msi)💻
