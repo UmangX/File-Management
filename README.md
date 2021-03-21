@@ -6,6 +6,7 @@
 
 Moves All file type to User Configurated Directory *Fully Working* 
 📸[https://www.instagram.com/umang._1]
+[Doesn't Required If Using the Exe]
 On Windows 10 Requires Python3 and **No** additional module :-   
 🐍[https://www.python.org/downloads]
 
@@ -22,17 +23,38 @@ On Windows 10 Requires Python3 and **No** additional module :-
 
 ## Usage
 
+ 1. Download The Umangxmover.exe
 
- 1. Add this script on the  Startup Folder
-    [ [FilemanagerPy](https://github.com/UmangX/FilemanagerPy)/[Code](https://github.com/UmangX/FilemanagerPy/tree/main/Code)/**UmangxMover.py**]
-to 
-[C:\Users\current_user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\]
- 2. This Move files into the folder on Every Startup
- 3.Or you can run script Whenever u want 
+>  FilemanagerPy/UmangxMover.exe
+
+ 3. Copy To 
+
+> C:\Users\\****YourUserName****\AppData\Roaming\Microsoft\Windows\Start
+> Menu\Programs\Startup
+
+3.Done(This Move files into the folder on Every Startup
+ Or you can run Exe Whenever u want )
+
+
+*Build Into Exe using Pyinstaller*
+
+
+
+## Alternative(Requires Python3 Installed)
+
+
+ 1. Download This Script
+ > FilemanagePy/Code/UmangxMover.py
+ 2. Move to
+>  C:\Users\\****YourUserName****\AppData\Roaming\Microsoft\Windows\Start
+ 3. This Move files into the folder on Every Startup
+ 4. Or you can run script Whenever u want 
  
 
-**For More Info About The Startup:-**  [https://www.geeksforgeeks.org/autorun-a-python-script-on-windows-startup/]
+**For More Info About The Startup Executable:-**  
 
-
+> [https://www.geeksforgeeks.org/autorun-a-python-script-on-windows-startup/]
+> 
+> 
 > Used My Me Everyday For Management And Decluttering
 > Made With ❤️ By Umang Patel 
