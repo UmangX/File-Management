@@ -5,10 +5,8 @@
 
 
 Moves All file type to User Configurated Directory *Fully Working* 
-📸[https://www.instagram.com/umang._1]
-[Doesn't Required If Using the Exe]
-On Windows 10 Requires Python3 and **No** additional module :-   
-🐍[https://www.python.org/downloads]
+Runs On startup Cleans and Organises Your Downloads Folder 
+Very Light Because It *Runs Once after  Every startup* 
 
 **Directories**
 
@@ -21,7 +19,9 @@ On Windows 10 Requires Python3 and **No** additional module :-
 
  *Folders that aren't Present Will Create (**Software and Zip**)*
 
-## Usage
+## Usage 
+
+***Check show hidden item for Appdata directory*** 
 
  1. Download The Umangxmover.exe
 
@@ -54,7 +54,11 @@ On Windows 10 Requires Python3 and **No** additional module :-
 **For More Info About The Startup Executable:-**  
 
 > [https://www.geeksforgeeks.org/autorun-a-python-script-on-windows-startup/]
-> 
-> 
+ 
+*Give Me a Follow* :- 📸[https://www.instagram.com/umang._1]
+[Doesn't Required If Using the Exe]
+On Windows 10 Requires Python3 and **No** additional module :-   
+🐍[https://www.python.org/downloads]
+
 > Used My Me Everyday For Management And Decluttering
 > Made With ❤️ By Umang Patel 
