@@ -17,7 +17,7 @@ Very Light Because It *Runs Once after  Every startup*
  5. Videos - C:\Users\Username\Videos(Mp4,Mkv) 📼
  6. Zip - C:\Users\Username\Zip(Zip,Iso)📀
 
- *Folders that aren't Present Will Create (**Software and Zip**)*
+ *Folders that aren't Present Will be Created (**Software and Zip**)*
 
 ## Usage 
 
