@@ -1,8 +1,4 @@
 # FilemanagerPy
-![drone](https://user-images.githubusercontent.com/69800542/111891236-7b278300-8a17-11eb-97b8-afd9cde87350.png)
-
-
-
 
 Moves All file type to User Configurated Directory *Fully Working* 
 Runs On startup Cleans and Organises Your Downloads Folder 
